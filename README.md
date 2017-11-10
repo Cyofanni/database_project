@@ -1,2 +1,2 @@
 # database_project
-A little database implemented in mysql.
+Project for the ***Database Systems*** class (University of Padua, Bachelor's degree in Computer Science)
